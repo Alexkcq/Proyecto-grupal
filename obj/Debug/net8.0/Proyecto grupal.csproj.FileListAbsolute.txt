@@ -1,0 +1,15 @@
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\bin\Debug\net8.0\Proyecto grupal.exe
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\bin\Debug\net8.0\Proyecto grupal.deps.json
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\bin\Debug\net8.0\Proyecto grupal.runtimeconfig.json
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\bin\Debug\net8.0\Proyecto grupal.dll
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\bin\Debug\net8.0\Proyecto grupal.pdb
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.AssemblyInfoInputs.cache
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.AssemblyInfo.cs
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.sourcelink.json
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.dll
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\refint\Proyecto grupal.dll
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.pdb
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\Proyecto grupal.genruntimeconfig.cache
+C:\Users\ALEXANDER\Downloads\inisco-8568\Proyecto grupal\obj\Debug\net8.0\ref\Proyecto grupal.dll
