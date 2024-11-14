@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\",
+  "WorkspaceRootPath": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|c:\\users\\alexander\\downloads\\inisco-8568\\proyecto grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|c:\\users\\manuel\\downloads\\inisco-8568\\proyecto-grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|c:\\users\\alexander\\downloads\\inisco-8568\\proyecto grupal\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|c:\\users\\manuel\\downloads\\inisco-8568\\proyecto-grupal\\desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC38BCD8-F993-4F85-A351-20498FF89A20}|Proyecto grupal.csproj|solutionrelative:desayuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Desayuno.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Desayuno.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Desayuno.cs",
               "RelativeDocumentMoniker": "Desayuno.cs",
-              "ToolTip": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Desayuno.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Desayuno.cs",
               "RelativeToolTip": "Desayuno.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T04:13:21.372Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Program.cs",
+              "ToolTip": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T04:10:00.185Z",
               "EditorCaption": ""

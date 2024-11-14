@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Proyecto grupal.csproj": {}
+    "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Proyecto grupal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Proyecto grupal.csproj": {
+    "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Proyecto grupal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Proyecto grupal.csproj",
+        "projectUniqueName": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Proyecto grupal.csproj",
         "projectName": "Proyecto grupal",
-        "projectPath": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\Proyecto grupal.csproj",
-        "packagesPath": "C:\\Users\\ALEXANDER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALEXANDER\\Downloads\\inisco-8568\\Proyecto grupal\\obj\\",
+        "projectPath": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\Proyecto grupal.csproj",
+        "packagesPath": "C:\\Users\\MANUEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MANUEL\\Downloads\\INISCO-8568\\Proyecto-grupal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALEXANDER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MANUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
